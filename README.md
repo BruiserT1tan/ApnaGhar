@@ -1,4 +1,5 @@
 # ApnaGhar
 This is my first repository.
 <br> 
-Author - Bruiser
+Author - Bruiser t1tan
+
